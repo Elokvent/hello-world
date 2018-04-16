@@ -11,4 +11,14 @@ public class Hello{
       sexiest=true;
     }else sexiest=false;
   }
+  
+  public boolean mrKnüller(int röv){
+    int jocke= 1;
+    int simon= 1;
+    kräm= jocke-simon
+    if(kräm==röv){
+      return false;
+    }else return true; 
+    
+  }
 }
